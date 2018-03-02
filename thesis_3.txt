@@ -1,10 +1,14 @@
+Thesis: In spite of the fact that AI technologies contains some risks that may even be caused to end of humanity, 
+	it should be supported because it is increasing welfare by developing daily and work life, also minimazing
+	some risks like injuring or low productivity.
+
 I. Risks
 	A. Unethical behaviours
 		1. Racisim
 		2. Mocking
 	B. Possible dangerous consequences
-		1. Destroy humanity
-		2. Restrain humanity
+		1. Destroy humanity (Elon musk)
+		2. Restrain humanity (Hawking)
 
 II. Increases welfare 				|	II. Developes systems
 	A. Daily life					|		A. Medical	
