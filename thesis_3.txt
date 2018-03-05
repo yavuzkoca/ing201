@@ -4,11 +4,11 @@ Thesis: In spite of the fact that AI technologies contains some risks that may e
 
 I. Risks
 	A. Unethical behaviours
-		1. Racisim
-		2. Mocking
+		1. Racisim (Twitter)
+		2. Mocking (Twitter)
 	B. Possible dangerous consequences
-		1. Destroy humanity (Elon musk)
-		2. Restrain humanity (Hawking)
+		1. Destroy humanity (Elon musk) Quote
+		2. Restrain humanity (Hawking)	Quote
 
 II. Increases welfare 				|	II. Developes systems
 	A. Daily life					|		A. Medical	
