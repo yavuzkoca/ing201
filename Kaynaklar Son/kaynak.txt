@@ -1,0 +1,15 @@
+I-A-2	https://spectrum.ieee.org/tech-history/silicon-revolution/mocking-ai-panic
+	http://uk.businessinsider.com/sophia-robot-tells-journalist-youve-been-reading-too-much-elon-musk-2017-10
+
+II-B-1 http://www.businessinsider.com/japan-womans-death-from-overwork-government-rethinks-work-2017-10
+
+II-B-2 https://www.gartner.com/newsroom/id/3837763
+
+III-B-1 https://medium.com/wepower/artificial-intelligence-and-the-future-of-energy-105ac6053de4
+
+III-A-1 https://academic.oup.com/annweh/article/49/2/147/146099
+	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4779796/
+III-A-2 http://webjcli.org/article/view/344/471
+	https://futureoflife.org/2017/09/21/safety-principle/
+
+II-A-1 https://www.digitaltrends.com/computing/how-ai-is-changing-education/
