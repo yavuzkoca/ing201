@@ -1,0 +1,27 @@
+Thesis: In spite of the fact that AI technologies contains some risks that may even be caused to end of humanity, 
+	it should be supported because it is increasing welfare by developing daily and work life, also minimazing
+	some risks like lack of security or low productivity.
+
+I. Can be risky
+	A. Unethical behaviours
+		1. Racisim (Anupam Chandler,The Racist Algorithm,2016,p26) 
+		2. Mocking (Diane Proudfoot,Mocking AI Panic,2015)
+			   (Sam Shead,2017)
+	B. Possible dangerous consequences
+		1. Destroy humanity (Elon musk,The Guardian,2018,p1)
+		2. Restrain humanity (S.Hawking,Southland Times,2014,p6)
+
+II. Increases welfare 				
+	A. Daily life					
+		1. Education (Dyllan Furness, 2017)							
+		2. Medical (Sammour,Cohen...,2017,p870)
+	B. Work life			
+		1. End of modern slavery (Chris Weller,2017)
+		2. New Jobs (STAMFORD,December 13, 2017)
+III. Minimizes risks
+	A. Security
+		1. Work life(Johnston,Phillips...,2004)
+		2. Daily life(Bradshaw-Martin, Easton, 2014)
+	B. Productivity
+		1. Energy (Jucikas, 2017)
+		2. Economy (Fethi, 2010, p. 190) 
