@@ -1,0 +1,13 @@
+According to an analysis based on Poisson distribution, an accepted probability theory,
+there would be a need for an autonomous car to travel 725,000 miles without incident to be 99% sure that
+it was safer than a car with a human driver.
+
+Paraphrase
+
+“A verified probability theory Poisson distribution based research assert that
+traveling 725,000 miles with a self driving car 99 percent doesn’t make an accident.
+It proves that self driving cars are safer than cars with human driver.”
+
+(Bradshaw-Martin & Easton, 2014)
+
+Source : http://webjcli.org/article/view/344/471#_ftn65
