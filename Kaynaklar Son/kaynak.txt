@@ -13,3 +13,5 @@ III-A-2 http://webjcli.org/article/view/344/471
 	https://futureoflife.org/2017/09/21/safety-principle/
 
 II-A-1 https://www.digitaltrends.com/computing/how-ai-is-changing-education/
+
+III-B-1 https://www.dailydot.com/debug/google-deepmind-ai-go/
