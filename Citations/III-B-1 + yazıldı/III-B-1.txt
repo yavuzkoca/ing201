@@ -1,8 +1,8 @@
 Increasing Productivity
 
 	"The team that created Google's famous GO player by using DeepMind
-	 Algorithms announced that this algorithms could increase the prolificacy
-	 by cutting electricity usage by %15."
+	 Algorithms announced that these algorithms could increase the prolificacy
+	 by cutting electricity usage by 15%."
 
 III B I					
 
